@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T-Bone</h1>
 <h3 align="center">Farming Simulator mod creator for NMC</h3>
 
-- 📫 How to reach me **kristian@northmoddingcompany.com**
+- 📫 How to reach me **kristian@northmoddingcompany.com** (preferably on discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
