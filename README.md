@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmc-tbone&label=Profile%20views&color=0e75b6&style=flat" alt="nmc-tbone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmc-tbone" alt="nmc-tbone" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmc-tbone&theme=onedark" alt="nmc-tbone" /></a> </p>
 
 - 📫 How to reach me **kristian@northmoddingcompany.com (preferably on discord)**
 
