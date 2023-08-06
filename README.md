@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nmc-tbone&theme=onedark" alt="nmc-tbone" /></a> </p>
 
-- 📫 How to reach me **kristian@northmoddingcompany.com (preferably on discord)**
+- 📫 How to reach me preferead way: nmc_tbone on discord, but email works as well **kristian@northmoddingcompany.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
